@@ -1,3 +1,13 @@
+
+//** ai video ta khub e importent 
+//  but akta task complete korte parlam na 
+// jet pore must kortei hobe seta holo modeul --> 
+// 23-6 Apply map, filter, find on an array of objects -->
+//  ( 02:00 minute a) <-- task ta solve korte hobe
+
+
+
+
 const students = [
     { id:21 , namee:'kolim'},
     {id:41 , namee:'kolim'},
