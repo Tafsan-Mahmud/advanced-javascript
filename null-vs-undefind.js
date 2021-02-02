@@ -22,3 +22,11 @@ console.log(fun);
 
 const ages = [2 , 3 ,3 ,4];
 console.log(ages[11]);
+
+function doSomething(x, y){
+
+    console.log(y);
+    
+    }
+    
+    doSomething(32);
